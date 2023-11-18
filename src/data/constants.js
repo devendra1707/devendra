@@ -289,8 +289,9 @@ export const experiences = [
       "Java Script",
       "Bootstrap",
       "Firebase",
+      "Git",
+      "GitHub",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/devendra-17.appspot.com/o/Naresh_I_Technology_certificate.png?alt=media&token=eb5ef2c9-8c92-4d59-82a0-a88eb154402c",
   },
 ];
 
