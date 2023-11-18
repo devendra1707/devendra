@@ -394,6 +394,26 @@ export const projects = [
     webapp: "#",
   },
   {
+    id: 15,
+    title: "We Connect",
+    date: "Oct 2022 - Present",
+    description:
+      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+    image:
+      "https://user-images.githubusercontent.com/92505396/283999676-b58e4f32-0679-4f3a-a3c6-3e45a4d34601.png",
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "NodeMailer",
+    ],
+    category: "web app",
+    github: "https://github.com/devendra1707/ECom-React",
+    webapp: "#",
+  },
+  {
     id: 3,
     title: "(SCM) Smart Contact Manager",
     date: "Jan 2023 - Mar 2023",
