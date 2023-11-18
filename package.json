@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "devendra-patel",
-=======
   "name": "devendra-patel-portfolio",
->>>>>>> origin/main
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,10 +13,7 @@
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
     "emailjs": "^4.0.2",
-<<<<<<< HEAD
-=======
-    "firebase": "^10.4.0",
->>>>>>> origin/main
+    "env-cmd": "^10.1.0",
     "gh-pages": "^3.2.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -34,7 +27,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && npm run move-build",
+    "move-build": "rimraf docs && move build docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
@@ -57,11 +51,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
-=======
->>>>>>> origin/main
+    "copy-webpack-plugin": "^11.0.0",
+    "rimraf": "^5.0.5"
   }
 }

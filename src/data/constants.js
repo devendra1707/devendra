@@ -12,13 +12,8 @@ export const Bio = {
     "#",
   linkedin: "https://www.linkedin.com/in/devendra1707/",
   twitter: "https://twitter.com/devendra1707",
-<<<<<<< HEAD
   insta: "https://instagram.com/devendra17071?igshid=OGU0MmVlOWVjOQ==",
   facebook: "https://www.facebook.com/profile.php?id=100059280595209&mibextid=ZbWKwL",
-=======
-  insta: "#",
-  facebook: "#",
->>>>>>> origin/main
 };
 
 export const skills = [
@@ -261,11 +256,7 @@ export const experiences = [
   // },
   {
     id: 0,
-<<<<<<< HEAD
     img: "https://user-images.githubusercontent.com/92505396/283944576-7a22880d-b30d-4691-9b32-ae03de42a751.png",
-=======
-    img: "https://scontent.flko10-1.fna.fbcdn.net/v/t31.18172-8/26173262_1977692535888550_7798929466286499497_o.png?stp=dst-png_p160x160&_nc_cat=104&ccb=1-7&_nc_sid=85a577&_nc_ohc=EUFmzNDvr0YAX-D1tI3&_nc_ht=scontent.flko10-1.fna&oh=00_AfCvn8uz4sG0UttieC4JVZJdRoQhDSAkPpH1X-WdHv6qfg&oe=653C34A8",
->>>>>>> origin/main
     role: "Software Engineer",
     company: "Armantec Systems Private Limited",
     date: "Jul 2022 - Present",
