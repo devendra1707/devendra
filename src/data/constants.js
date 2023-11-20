@@ -154,7 +154,7 @@ export const skills = [
       {
         name: "AWS",
         image:
-          "https://www.dreamsplus.in/wp-content/uploads/2020/05/AWS-Cloud-logo-png.jpg",
+          "https://user-images.githubusercontent.com/92505396/284244873-0adaaa28-a384-4ab4-b68e-e4504a3334b3.png",
       },
       {
         name: "Docker",
@@ -376,8 +376,7 @@ export const projects = [
     "RestFull Web API",
     "CI/CD",
     "React Js",
-    "Redux",
-  ],
+    "Redux",],
     category: "web app",
     github: "",
     webapp: "#",
