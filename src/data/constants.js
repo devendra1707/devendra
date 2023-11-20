@@ -86,9 +86,7 @@ export const skills = [
       },
       {
         name: "Spring Cloud",
-        image: "https://www.clipartmax.com/png/middle/195-1955230_cloud-gateway-spring-cloud-contract-logo.png",
-        // "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8b1Z5m2N4b1d3_cloud-gateway-spring-cloud-contract-logo%2F&psig=AOvVaw2iaLSma3x51YBR_uqGexNn&ust=1695809411011000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKi58YOFyIEDFQAAAAAdAAAAABAD",
-        // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfX66N748hBc3DNShm6pQrOa7efUouCkz6t7TBPQNCUNl9HmSgqy4dtfoHL1MpqIN2Q4&usqp=CAU",
+        image: "https://user-images.githubusercontent.com/92505396/284248050-b0c266c2-3b26-4c7d-a6fc-4d6a8cbb5565.png",
       },
       {
         name: "Spring Security",
@@ -368,15 +366,15 @@ export const projects = [
     image:
       "https://user-images.githubusercontent.com/92505396/283993447-8dc89bcc-3095-4ee6-b72b-4ed6a2ac7eec.png",
     tags: ["Docker",
-    "AWS",
-    "Spring Boot",
-    "Hibernate",
-    "Java",
-    "MySql",
-    "RestFull Web API",
-    "CI/CD",
-    "React Js",
-    "Redux",],
+      "AWS",
+      "Spring Boot",
+      "Hibernate",
+      "Java",
+      "MySql",
+      "RestFull Web API",
+      "CI/CD",
+      "React Js",
+      "Redux",],
     category: "web app",
     github: "",
     webapp: "#",
@@ -429,7 +427,7 @@ export const projects = [
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
     image:
       "https://user-images.githubusercontent.com/92505396/283993460-5b49b1e4-6742-4f7c-91ef-313a06819310.png",
-    tags: ["Spring Boot", "Thymeleaf", "MySQL", "Hibernate", "HTML", "Css","JavaScript"],
+    tags: ["Spring Boot", "Thymeleaf", "MySQL", "Hibernate", "HTML", "Css", "JavaScript"],
     category: "web app",
     github: "https://github.com/devendra1707/Smart-Contact-manager",
     webapp: "#",
@@ -442,7 +440,7 @@ export const projects = [
       "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
     image:
       "https://user-images.githubusercontent.com/92505396/283993455-bb7e958b-56b6-40df-a15e-d2282db50e52.png",
-    tags: ["React Js", "Spring Boot", "Java", "MySQL","Hibernate","RestFul Web API"],
+    tags: ["React Js", "Spring Boot", "Java", "MySQL", "Hibernate", "RestFul Web API"],
     category: "web app",
     github: "https://github.com/devendra1707/LiveCrickScore2023Back",
     webapp: "#",
@@ -470,7 +468,7 @@ export const projects = [
       "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
     image:
       "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Spring Boot", "MySQL", "Hibernate", "RestFul Web API","React","Axois"],
+    tags: ["Spring Boot", "MySQL", "Hibernate", "RestFul Web API", "React", "Axois"],
     category: "web app",
     github: "https://github.com/devendra1707/Blog-React",
     webapp: "#",
@@ -483,12 +481,12 @@ export const projects = [
       "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
     image:
       "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["Angular", "JavaScript", "RestFul API","Spring Boot","MySql","Hibernate","AWS"],
+    tags: ["Angular", "JavaScript", "RestFul API", "Spring Boot", "MySql", "Hibernate", "AWS"],
     category: "web app",
     github: "https://github.com/devendra1707/examserver_angular1",
     webapp: "#",
   },
- 
+
   {
     id: 7,
     title: "Movie Booking Application",
@@ -536,7 +534,7 @@ export const projects = [
       "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
     image:
       "https://user-images.githubusercontent.com/92505396/283996486-aaefcafd-63d9-45bc-b940-b5b4481be758.png",
-    tags: ["React Js", "API", "Axios", "Node JS","Spring Boot","MySQL","Hibernate"],
+    tags: ["React Js", "API", "Axios", "Node JS", "Spring Boot", "MySQL", "Hibernate"],
     category: "web app",
     github: "https://github.com/devendra1707/CafeManagementSystemSpringBoot",
     webapp: "#",
@@ -575,7 +573,7 @@ export const projects = [
       "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
     image:
       "https://user-images.githubusercontent.com/92505396/283997884-698e4c14-b7a7-4af5-bc05-0a73337855f1.png",
-    tags: ["Spring Boot", "MySQL", "Thymeleaf", "Hibernate", "HTML", "Css","JavaScript"],
+    tags: ["Spring Boot", "MySQL", "Thymeleaf", "Hibernate", "HTML", "Css", "JavaScript"],
     category: "web app",
     github: "https://github.com/devendra1707/Student-Management-Project",
     webapp: "#",
