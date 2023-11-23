@@ -318,7 +318,7 @@ export const education = [
     school: "Janta Inter College Barsathi Jaunpur",
     date: "Jul 2015 - Apr 2017",
     grade: "72.20%",
-    desc: "I completed my class 12 Intermediate education at Janta Inter College, Barsathi, where I studied Science with Mathematics.",
+    desc: "I completed my class 12 Intermediate education at Janta Inter College, Barsathi Jaunpur, where I studied Science with Mathematics.",
     degree: "UP Board(XII), Science with Mathematics",
   },
   {
@@ -327,7 +327,7 @@ export const education = [
     school: "Janta Inter College Barsathi Jaunpur",
     date: "Jul 2013 - Apr 2015",
     grade: "74.33%",
-    desc: "I completed my class 10 high school education at Janta Inter College , Barsathi, where I studied Science with Mathematics.",
+    desc: "I completed my class 10 high school education at Janta Inter College , Barsathi Jaunpur, where I studied Science with Mathematics.",
     degree: "UP Board(X), Science with Mathematics",
   },
 ];
