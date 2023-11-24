@@ -338,7 +338,7 @@ export const projects = [
     title: "DHIMS",
     date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "The DHIMS project is a comprehensive health information management system designed to enhance the collection, storage, analysis, and reporting of health-related data at the district level. This system aims to improve healthcare decision-making, resource allocation, and overall health outcomes through the effective use of data.",
     image:
       "https://user-images.githubusercontent.com/92505396/283994396-c4c55c91-57d8-44c3-ab2b-02e639c8bf61.png",
     tags: [
@@ -362,7 +362,7 @@ export const projects = [
     title: "CPWD (Central Public Work Department)",
     date: "Apr 2023 - May 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Developed a full-stack web application that allows Contributed to developed UI DashBoard Software use Spring MVC, Java, HTML, CSS3 , JavaScript ,jQuery and Thymeleaf Template. Developed backend solutions using Hibernate ORM tool and MySQL database. Creating public and private pages to our web applications Developed a web theme that is applied across multiple pages in a web application. Developed dynamic web pages using Thymeleaf view.",
     image:
       "https://user-images.githubusercontent.com/92505396/283993447-8dc89bcc-3095-4ee6-b72b-4ed6a2ac7eec.png",
     tags: ["Docker",
@@ -373,8 +373,10 @@ export const projects = [
       "MySql",
       "RestFull Web API",
       "CI/CD",
-      "React Js",
-      "Redux",],
+      "HTML",
+      "CSS",
+      "Java Script",
+      "Thymeleaf",],
     category: "web app",
     github: "",
     webapp: "#",
@@ -384,7 +386,7 @@ export const projects = [
     title: "We Connect",
     date: "Oct 2022 - Present",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      'Designed and developed the " We Connect " Project,The Employee Management System is a multifaceted Java-based application designed to serve as a comprehensive tool for efficient workforce management. This integrated platform seamlessly connects and streamlines various critical aspects of employee engagement, including the meticulous tracking of attendance records, facilitation of task assignments, maintenance of a detailed holiday list, and effective management of medical leave requests. Furthermore, the system provides centralized oversight for timesheet tracking, expense reporting, and leave applications, contributing to a more organized and transparent employee management process. By integrating these functionalities, the application not only enhances operational efficiency but also fosters a culture of accountability and adherence to company policies, ensuring a holistic and structured approach to workforce administration.',
     image:
       "https://user-images.githubusercontent.com/92505396/283999676-b58e4f32-0679-4f3a-a3c6-3e45a4d34601.png",
     tags: [
@@ -404,7 +406,7 @@ export const projects = [
     title: "E-Commerce",
     date: "Oct 2022 - Present",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "Designed and developed E-Commerce Project is a comprehensive online marketplace developed using a technology stack centered around Java, HTML, CSS, and JavaScript. The backend is powered by Java, employing the Spring Boot framework to handle server-side logic, manage user authentication, and facilitate seamless communication with the database. The frontend utilizes HTML for structuring web pages, CSS for styling, and JavaScript for dynamic, interactive elements, providing users with a visually appealing and responsive shopping experience. The project incorporates features such as user registration, secure authentication, a dynamic product catalog with search and filter functionalities, a shopping cart system, and a streamlined checkout process. Payment integration is achieved through popular gateways, ensuring secure online transactions. The platform supports multiple vendors, each with their own storefront and inventory management capabilities. With a focus on user experience, security, and scalability, the E-Commerce Project aims to provide a robust solution for online retail, meeting the demands of both customers and merchants.",
     image:
       "https://user-images.githubusercontent.com/92505396/283994399-f617e03f-68dd-4fec-8af3-b5b00e9a3a07.png",
     tags: [
@@ -424,7 +426,7 @@ export const projects = [
     title: "(SCM) Smart Contact Manager",
     date: "Jan 2023 - Mar 2023",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "The primary objective of the Smart Connect Manager project is to serve as a centralized and efficient platform for managing contact-related information, encompassing mobile numbers and email addresses. Built on the robust foundation of Spring Boot, REST APIs, Thymeleaf, and MySQL, the application offers a seamless and user-friendly interface for users to add, organize, and maintain contact details. The project aims to enhance connectivity and streamline information management by providing a comprehensive solution to store, update, and retrieve contact-related data. With a focus on simplicity, scalability, and performance, the Smart Connect Manager project empowers users to efficiently manage and access their contact information in a secure and organized manner.",
     image:
       "https://user-images.githubusercontent.com/92505396/283993460-5b49b1e4-6742-4f7c-91ef-313a06819310.png",
     tags: ["Spring Boot", "Thymeleaf", "MySQL", "Hibernate", "HTML", "Css", "JavaScript"],
@@ -437,7 +439,7 @@ export const projects = [
     title: "Live Cricket Score - 2023",
     date: "Jul 2021",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "The Live Cricket Score - 2023 project is a dynamic web application developed using a powerful stack that includes Spring Boot, MySQL, Thymeleaf, HTML, CSS, JavaScript, and Hibernate. This comprehensive solution ensures real-time updates of cricket scores for the year 2023. Leveraging Spring Boot for its robust backend framework, the application utilizes Hibernate to interact seamlessly with the MySQL database, ensuring efficient data storage and retrieval. Thymeleaf templates facilitate the server-side rendering of HTML, while CSS and JavaScript enhance the user interface for a visually appealing and interactive experience. The project employs a RESTful architecture for smooth communication between the frontend and backend, allowing users to access live cricket scores in a responsive and dynamic environment. This solution provides an optimal balance of performance, scalability, and user engagement, offering cricket enthusiasts a cutting-edge platform to stay updated on live matches throughout the year 2023.",
     image:
       "https://user-images.githubusercontent.com/92505396/283993455-bb7e958b-56b6-40df-a15e-d2282db50e52.png",
     tags: ["React Js", "Spring Boot", "Java", "MySQL", "Hibernate", "RestFul Web API"],
@@ -465,7 +467,7 @@ export const projects = [
     title: "Blogging Application",
     date: "Dec 2021 - Apr 2022",
     description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "The Blogging Application is a modern and feature-rich web platform developed with a sophisticated technology stack, combining Spring Boot, MySQL, React.js, HTML, CSS, and JavaScript. This robust solution caters to bloggers and readers alike, offering seamless content creation, storage, and retrieval. Leveraging the Spring Boot framework for a robust backend, the application uses MySQL for efficient data management and persistence. The frontend is built with React.js, ensuring a dynamic and responsive user interface. HTML and CSS contribute to the platform's structure and styling, while JavaScript enhances interactivity. The application supports user authentication, enabling bloggers to create and manage personalized accounts, and incorporates a rich text editor for composing engaging posts. With a RESTful API architecture, the application ensures smooth communication between the frontend and backend, facilitating real-time updates. This Blogging Application strives to provide an optimal blend of user experience, performance, and scalability, making it an ideal choice for both bloggers and readers seeking an intuitive and visually appealing platform for sharing and consuming content.",
     image:
       "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
     tags: ["Spring Boot", "MySQL", "Hibernate", "RestFul Web API", "React", "Axois"],
@@ -478,7 +480,7 @@ export const projects = [
     title: "Exam Server Management System",
     date: "Jun 2023 - Jul 2023",
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "The Exam Server Management System is a comprehensive web application developed using Angular for the frontend, leveraging JavaScript for dynamic interactivity, and interfacing with a RESTful API powered by a robust Spring Boot backend. Data is efficiently managed and stored in a MySQL database using Hibernate for seamless integration. This system is hosted on the AWS cloud infrastructure, ensuring scalability, reliability, and optimal performance. The Angular frontend provides an intuitive and responsive user interface, allowing administrators, instructors, and students to manage exams, grades, and related information seamlessly. The Spring Boot backend handles the logic for user authentication, data processing, and communication with the database, while AWS services contribute to secure and efficient hosting. With this technological synergy, the Exam Server Management System offers a streamlined and user-friendly solution for managing exams, fostering an organized and efficient environment for academic institutions and students alike.",
     image:
       "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
     tags: ["Angular", "JavaScript", "RestFul API", "Spring Boot", "MySql", "Hibernate", "AWS"],
@@ -492,7 +494,7 @@ export const projects = [
     title: "Movie Booking Application",
     date: "Jun 2021",
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      " The Movie Booking Application is a dynamic and user-friendly web platform developed with Angular, providing an immersive experience for movie enthusiasts. The frontend, built with Angular, offers a responsive and interactive interface, enabling users to seamlessly browse movies, view showtimes, and book tickets. Leveraging Angular's powerful capabilities, the application ensures a smooth and dynamic user experience. The frontend communicates with a backend server through RESTful APIs, allowing for efficient data retrieval and updating. The backend, implemented using a technology stack such as Spring Boot, handles business logic, authentication, and interacts with a database (e.g., MySQL) through Hibernate for data storage and retrieval. This comprehensive solution allows users to register, browse movies, view detailed information, select showtimes, and securely book tickets. The Movie Booking Application aims to enhance the cinema-going experience by combining a visually appealing and intuitive frontend with a robust and scalable backend, providing moviegoers with a seamless and enjoyable booking process.",
     image:
       "https://user-images.githubusercontent.com/92505396/284256195-f8df6368-9ad5-4e89-8ec2-8db556fd7c89.png",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
@@ -505,7 +507,7 @@ export const projects = [
     title: "Admin Dashboard",
     date: "Jun 2021",
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      "The Admin Dashboard built with Angular is a powerful and intuitive web-based management tool designed for efficient administration and oversight of various aspects of a system or application. Angular's robust frontend framework facilitates the creation of a responsive and dynamic user interface, allowing administrators to access, monitor, and manage critical information seamlessly. The dashboard is organized with modular components, presenting key data, analytics, and controls in an easily digestible format. Leveraging Angular's capabilities, the dashboard offers real-time updates, interactive charts, and customizable widgets, providing administrators with a comprehensive overview of system performance, user activities, and other relevant metrics. The frontend communicates with a backend server, often implemented using technologies like Node.js or Spring Boot, through RESTful APIs for secure and efficient data retrieval and manipulation. The Admin Dashboard serves as a centralized control hub, streamlining administrative tasks, facilitating quick decision-making, and enhancing the overall efficiency of system management.",
     image:
       "https://user-images.githubusercontent.com/92505396/283998329-7842c7c2-9315-49a2-a0a2-1f122dc80f01.png",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
@@ -518,7 +520,7 @@ export const projects = [
     title: "SIP Calculator",
     date: "Jun 2021",
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      "The SIP (Systematic Investment Plan) Calculator is a web-based financial tool developed with a technology stack that includes Spring Boot, Hibernate, MySQL, and Thymeleaf. Utilizing Spring Boot for its backend framework, the application efficiently manages business logic, data processing, and interacts with a MySQL database through Hibernate for secure and organized data storage. The frontend, powered by Thymeleaf, provides a dynamic and user-friendly interface, enabling users to input investment parameters, calculate potential returns, and visualize the results. The SIP Calculator leverages the capabilities of Spring Boot's RESTful API architecture to facilitate seamless communication between the frontend and backend. Users can input investment details, view calculated returns based on SIP strategies, and receive insightful reports. This financial tool, with its robust technology stack, aims to simplify investment planning, allowing users to make informed decisions about their Systematic Investment Plans.",
     image:
       "https://user-images.githubusercontent.com/92505396/283999209-ede48caa-374d-4f4b-ae91-b70fbd86e9fc.png",
     tags: ["React Js", "Local Storage", "AWS Auth", "Thymeleaf"],
@@ -531,7 +533,7 @@ export const projects = [
     title: "Cafe Management System",
     date: "Jun 2021",
     description:
-      "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
+      "The Cafe Management System is a comprehensive web application developed with a technology stack comprising Spring Boot, Angular, MySQL, Hibernate, HTML, CSS, and JavaScript. Leveraging Spring Boot for the backend, the system efficiently manages cafe operations, processing business logic and ensuring seamless communication with the MySQL database through Hibernate for data storage and retrieval. The frontend, built with Angular, offers an interactive and user-friendly interface, allowing cafe staff to manage orders, inventory, and customer interactions efficiently. The HTML, CSS, and JavaScript components enhance the user experience with a visually appealing and responsive design. The system supports functionalities such as order processing, menu management, inventory tracking, and customer relationship management. This Cafe Management System, with its robust technology stack, aims to streamline cafe operations, enhance customer service, and provide cafe owners with a comprehensive tool for managing their business effectively.",
     image:
       "https://user-images.githubusercontent.com/92505396/283996486-aaefcafd-63d9-45bc-b940-b5b4481be758.png",
     tags: ["React Js", "API", "Axios", "Node JS", "Spring Boot", "MySQL", "Hibernate"],
@@ -544,7 +546,7 @@ export const projects = [
     title: "Bus Reservation System",
     date: "Dec 2020 - Jan 2021",
     description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
+      "The Bus Reservation System is a comprehensive web-based application designed to facilitate seamless booking and management of bus services. Built on a technology stack that may include Spring Boot, Angular, MySQL, Hibernate, HTML, CSS, and JavaScript, the system offers a user-friendly interface for travelers to browse available routes, select seats, and make reservations. The backend, powered by Spring Boot and utilizing Hibernate, manages the business logic and interacts with a MySQL database for efficient storage and retrieval of reservation and route information. The Angular frontend ensures a dynamic and responsive user experience, allowing passengers to view schedules, select seat preferences, and make secure online payments. The system may include features such as user authentication, real-time seat availability updates, and booking confirmations. Overall, the Bus Reservation System aims to streamline the booking process, improve user experience, and provide bus operators with a robust tool for managing schedules, reservations, and customer information.",
     image:
       "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
     tags: ["Java", "Spring Boot", "Firebase", "React"],
@@ -557,7 +559,7 @@ export const projects = [
     title: "CRYPTO DASHBOARD",
     date: "Jan 2021",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "The Crypto Dashboard is a dynamic and responsive web application developed using React, designed to provide users with real-time insights and analysis of cryptocurrency data. Leveraging React's component-based architecture, the dashboard offers an interactive and visually appealing interface for tracking cryptocurrency prices, market trends, and portfolio performance. The frontend fetches and displays data from various cryptocurrency APIs, presenting it in easy-to-understand charts, tables, and graphs. React's efficient state management ensures seamless updates and responsiveness to user interactions. The Crypto Dashboard may include features such as price alerts, historical data analysis, and user authentication for personalized portfolios. With its modern and user-friendly design, the Crypto Dashboard serves as a comprehensive tool for cryptocurrency enthusiasts, traders, and investors to stay informed and make informed decisions in the ever-changing world of digital assets.",
     image:
       "https://user-images.githubusercontent.com/92505396/283998678-9afd4820-43f8-46a6-8f98-670d8de1d89b.png",
     tags: ["Spring Boot", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
@@ -570,7 +572,7 @@ export const projects = [
     title: "Student Management Syatem",
     date: "Jan 2021",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "The Student Management System is a robust web application developed with a technology stack that includes Spring Boot, Thymeleaf, MySQL, and Hibernate. Utilizing Spring Boot for the backend, the system efficiently manages student-related data, handles business logic, and interacts seamlessly with a MySQL database using Hibernate for secure and organized data storage. The frontend, powered by Thymeleaf, provides a dynamic and user-friendly interface for administrators, educators, and students to manage academic information, course enrollments, and grades. The system supports functionalities such as student registration, course management, and grade tracking. With its modern and responsive design, the Student Management System aims to simplify administrative tasks, enhance communication between educators and students, and provide a centralized platform for efficient management of academic records.",
     image:
       "https://user-images.githubusercontent.com/92505396/283997884-698e4c14-b7a7-4af5-bc05-0a73337855f1.png",
     tags: ["Spring Boot", "MySQL", "Thymeleaf", "Hibernate", "HTML", "Css", "JavaScript"],
@@ -583,7 +585,7 @@ export const projects = [
     title: "Online Training System",
     date: "Jan 2021",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "The Online Training System static website is a visually engaging and informative platform designed with HTML, CSS, and JavaScript to provide users with comprehensive details about various online training courses. The HTML structure forms the backbone of the website, organizing content logically, while CSS is employed for styling, ensuring a visually appealing and cohesive design. JavaScript is utilized for interactive elements, enhancing user engagement and providing dynamic features. The website includes sections for course descriptions, instructor details, registration information, and testimonials, all presented in a user-friendly layout. The responsive design ensures accessibility across different devices. The Online Training System static website serves as a gateway for potential learners to explore available courses, understand the training approach, and make informed decisions about their educational journey in a straightforward and visually appealing manner.",
     image:
       "https://user-images.githubusercontent.com/92505396/283997866-43420d00-2775-4a47-9bf2-cd20c123f4bc.png",
     tags: ["HTML", "Css", "JavaScript"],
@@ -596,7 +598,7 @@ export const projects = [
     title: "Covid Tracking System",
     date: "Jan 2021",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "The Covid Tracking System is a web application developed with a technology stack that includes Spring Boot, Thymeleaf, and Hibernate. Utilizing Spring Boot for the backend, the system manages the tracking of COVID-19 cases, seamlessly handling business logic and interacting with a database through Hibernate for secure and organized data storage. Thymeleaf is employed for the frontend, providing a dynamic and user-friendly interface for users to access real-time COVID-19 data, view statistics, and receive updates. The system may include features such as regional case tracking, graphical representations of data, and informational sections. With its modern design and responsive layout, the Covid Tracking System aims to keep users informed about the ongoing pandemic, providing a centralized and accessible platform for monitoring and understanding COVID-19 trends and statistics.",
     image:
       "https://user-images.githubusercontent.com/92505396/284250972-ab09af4a-c9c6-442e-804e-61b9430c9c5d.png",
     tags: ["Spring Boot", "MySQL", "Hibernate", "Thymeleaf", "React"],

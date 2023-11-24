@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/devendra/static/css/main.2520b73c.css",
-    "main.js": "/devendra/static/js/main.16bf1102.js",
+    "main.js": "/devendra/static/js/main.4aa8ed5a.js",
     "static/media/HeroImage.jpg": "/devendra/static/media/HeroImage.65e44b667c8044cfc734.jpg",
     "index.html": "/devendra/index.html",
     "main.2520b73c.css.map": "/devendra/static/css/main.2520b73c.css.map",
-    "main.16bf1102.js.map": "/devendra/static/js/main.16bf1102.js.map"
+    "main.4aa8ed5a.js.map": "/devendra/static/js/main.4aa8ed5a.js.map"
   },
   "entrypoints": [
     "static/css/main.2520b73c.css",
-    "static/js/main.16bf1102.js"
+    "static/js/main.4aa8ed5a.js"
   ]
 }
