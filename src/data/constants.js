@@ -418,8 +418,8 @@ export const projects = [
       "RestFul Web API",
     ],
     category: "web app",
-    github: "https://github.com/devendra1707/ECom-React",
-    webapp: "#",
+    github: "https://github.com/devendra1707/E-Commerce",
+    webapp: "https://devendra1707.github.io/E-Commerce/",
   },
   {
     id: 3,
@@ -469,7 +469,7 @@ export const projects = [
     description:
       "The Blogging Application is a modern and feature-rich web platform developed with a sophisticated technology stack, combining Spring Boot, MySQL, React.js, HTML, CSS, and JavaScript. This robust solution caters to bloggers and readers alike, offering seamless content creation, storage, and retrieval. Leveraging the Spring Boot framework for a robust backend, the application uses MySQL for efficient data management and persistence. The frontend is built with React.js, ensuring a dynamic and responsive user interface. HTML and CSS contribute to the platform's structure and styling, while JavaScript enhances interactivity. The application supports user authentication, enabling bloggers to create and manage personalized accounts, and incorporates a rich text editor for composing engaging posts. With a RESTful API architecture, the application ensures smooth communication between the frontend and backend, facilitating real-time updates. This Blogging Application strives to provide an optimal blend of user experience, performance, and scalability, making it an ideal choice for both bloggers and readers seeking an intuitive and visually appealing platform for sharing and consuming content.",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+      "https://user-images.githubusercontent.com/92505396/285389069-603ddc96-ff47-404f-9509-6c0242eefffa.jpg",
     tags: ["Spring Boot", "MySQL", "Hibernate", "RestFul Web API", "React", "Axois"],
     category: "web app",
     github: "https://github.com/devendra1707/Blog-React",
@@ -577,7 +577,7 @@ export const projects = [
       "https://user-images.githubusercontent.com/92505396/283997884-698e4c14-b7a7-4af5-bc05-0a73337855f1.png",
     tags: ["Spring Boot", "MySQL", "Thymeleaf", "Hibernate", "HTML", "Css", "JavaScript"],
     category: "web app",
-    github: "https://github.com/devendra1707/Student-Management-Project",
+    github: "https://github.com/devendra1707/Student-Management-Project/tree/main/Student-Management-System",
     webapp: "#",
   },
   {
