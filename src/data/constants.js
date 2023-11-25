@@ -258,7 +258,7 @@ export const experiences = [
     role: "Software Engineer",
     company: "Armantec Systems Private Limited Noida Uttar Pradesh",
     date: "Jul 2022 - Present",
-    desc: "An accomplished software developer with two years of professional experience. Specializing in creating efficient and scalable software solutions, I have a strong foundation in various programming languages and technologies. Proficient in the entire software development lifecycle, from initial concept to deployment, I excel at collaborating with diverse teams to deliver high-quality products. My problem-solving skills and commitment to staying updated on industry trends contribute to my ability to tackle complex challenges. Dedicated to continuous learning and innovation, I bring a passion for crafting effective and elegant software solutions.",
+    desc: "Experienced and results-oriented Software Engineer with a strong foundation in Java development, specializing in the design, implementation, and deployment of robust applications. Proficient in Spring Boot and Hibernate frameworks, adept at building scalable microservices and web applications. Skilled in database management with a focus on optimizing performance. Experienced in deploying applications using CI/CD pipelines and well-versed in DevOps practices. A problem solver with a track record of analyzing complex issues and implementing effective solutions. Excellent collaboration and communication skills demonstrated through successful teamwork and stakeholder engagement. Holds a B.Tech in Computer Science from VBSPU Jaunpur, with relevant certifications in Java and Spring Boot. Check out my GitHub portfolio https://github.com/devendra1707 for a showcase of projects and code samples.",
     skills: [
       "Leadership",
       "Web Application Development",
@@ -268,6 +268,7 @@ export const experiences = [
       "XML",
       "Json",
       "Microservices",
+      "Thymeleaf",
       "MySQl",
       "React", ,
       "Angular",
@@ -419,7 +420,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/devendra1707/E-Commerce",
-    webapp: "https://devendra1707.github.io/E-Commerce/",
+    webapp: "https://devendra1707.github.io/shopping/",
   },
   {
     id: 3,
