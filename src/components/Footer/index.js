@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Devendra Patel. All rights reserved.
+          &copy; 2024 Devendra Patel. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
