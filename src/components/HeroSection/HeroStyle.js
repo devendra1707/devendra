@@ -154,15 +154,18 @@ export const SubTitle = styled.div`
   font-size: 20px;
   line-height: 32px;
   margin-bottom: 42px;
+  text-align:justify;
   color: ${({ theme }) => theme.text_primary + 95};
 
   @media (max-width: 960px) {
     text-align: center;
+    text-align:justify;
   }
 
   @media (max-width: 640px) {
     font-size: 16px;
     line-height: 32px;
+    text-align:justify;
   }
 `;
 
