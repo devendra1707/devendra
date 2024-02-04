@@ -102,8 +102,8 @@ function Footer() {
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>
-          &copy; 2024 Devendra Patel. All rights reserved.
+       <Copyright>
+          &copy; {new Date().getFullYear()} Devendra Patel. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
