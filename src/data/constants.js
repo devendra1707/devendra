@@ -1,19 +1,15 @@
 export const Bio = {
   name: "Devendra Patel",
-  roles: [
-    "Full Stack Developer",
-    "Java Developer",
-    "Programmer",
-  ],
+  roles: ["Full Stack Developer", "Java Developer", "Programmer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/devendra1707",
-  resume:
-    "#",
+  resume: "#",
   linkedin: "https://www.linkedin.com/in/devendra1707/",
   twitter: "https://twitter.com/devendra1707",
   insta: "https://instagram.com/devendra17071?igshid=OGU0MmVlOWVjOQ==",
-  facebook: "https://www.facebook.com/profile.php?id=100059280595209&mibextid=ZbWKwL",
+  facebook:
+    "https://www.facebook.com/profile.php?id=100059280595209&mibextid=ZbWKwL",
 };
 
 export const skills = [
@@ -36,8 +32,7 @@ export const skills = [
       },
       {
         name: "Liferay",
-        image:
-          "https://avatars.githubusercontent.com/u/131436?s=200&v=4",
+        image: "https://avatars.githubusercontent.com/u/131436?s=200&v=4",
       },
       {
         name: "CSS",
@@ -59,7 +54,6 @@ export const skills = [
         image:
           "https://pbs.twimg.com/profile_images/1141815571811454976/JTODv7Tt_400x400.png",
       },
-
     ],
   },
   {
@@ -86,11 +80,13 @@ export const skills = [
       },
       {
         name: "Spring Cloud",
-        image: "https://user-images.githubusercontent.com/92505396/284248050-b0c266c2-3b26-4c7d-a6fc-4d6a8cbb5565.png",
+        image:
+          "https://user-images.githubusercontent.com/92505396/284248050-b0c266c2-3b26-4c7d-a6fc-4d6a8cbb5565.png",
       },
       {
         name: "Spring Security",
-        image: "https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png",
+        image:
+          "https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png",
       },
       {
         name: "Postgresql",
@@ -131,7 +127,8 @@ export const skills = [
     skills: [
       {
         name: "Eclipse",
-        image: "https://static.macupdate.com/products/11662/l/eclipse-ide-logo.webp?v=1617819161",
+        image:
+          "https://static.macupdate.com/products/11662/l/eclipse-ide-logo.webp?v=1617819161",
       },
 
       {
@@ -142,12 +139,11 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://private-user-images.githubusercontent.com/92505396/311691874-d0cf2d71-ecad-493b-851c-5c8bf9ce7c08.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxNTgxMjUsIm5iZiI6MTcxMDE1NzgyNSwicGF0aCI6Ii85MjUwNTM5Ni8zMTE2OTE4NzQtZDBjZjJkNzEtZWNhZC00OTNiLTg1MWMtNWM4YmY5Y2U3YzA4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzExVDExNTAyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRmNjVkMWE4YWJlNDRiYTk3ZDgwMjI0MmU0ZGEwZTgzYTEzMzE2ODVkYTM0MWE0MTkxYzViOWIyY2M5YzgzYTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WN3zq60I1FXB4r31g29CGcJ8n583QpoIpeWyyz5yzsg",
       },
       {
         name: "Gradle",
-        image:
-          "https://www.finsmes.com/wp-content/uploads/2021/11/gradle.jpg",
+        image: "https://www.finsmes.com/wp-content/uploads/2021/11/gradle.jpg",
       },
       {
         name: "AWS",
@@ -270,11 +266,12 @@ export const experiences = [
       "Microservices",
       "Thymeleaf",
       "MySQl",
-      "React", ,
+      "React",
+      ,
       "Angular",
       "Html",
       "Css",
-      "JavScript"
+      "JavScript",
     ],
   },
   {
@@ -337,9 +334,9 @@ export const projects = [
   {
     id: 0,
     title: "DHIMS",
-    date: "Jun 2023 - Jul 2023",
+    // date: "Jun 2023 - Jul 2023",
     description:
-      "The DHIMS project is a comprehensive health information management system designed to enhance the collection, storage, analysis, and reporting of health-related data at the district level. This system aims to improve healthcare decision-making, resource allocation, and overall health outcomes through the effective use of data.",
+      "Delhi health system can be informed of the number of available beds, medicines and vacant ventilators across the territory's hospitals. The system, which also features a doctor consultation booking mechanism for patients, can help reduce long queues at hospitals.",
     image:
       "https://user-images.githubusercontent.com/92505396/283994396-c4c55c91-57d8-44c3-ab2b-02e639c8bf61.png",
     tags: [
@@ -361,12 +358,13 @@ export const projects = [
   {
     id: 1,
     title: "CPWD (Central Public Work Department)",
-    date: "Apr 2023 - May 2023",
+    // date: "Apr 2023 - May 2023",
     description:
-      "Developed a full-stack web application that allows Contributed to developed UI DashBoard Software use Spring MVC, Java, HTML, CSS3 , JavaScript ,jQuery and Thymeleaf Template. Developed backend solutions using Hibernate ORM tool and MySQL database. Creating public and private pages to our web applications Developed a web theme that is applied across multiple pages in a web application. Developed dynamic web pages using Thymeleaf view.",
+      "CPWD is a government agency that manages public works projects in India, Find out the latest news, events, projects, and services of CPWD. CPWD is responsible for planning, designing, building and maintaining public works projects in India. Collaborated with cross-functional teams to design and deploy secure and compliant solutions aligned with government regulations",
     image:
       "https://user-images.githubusercontent.com/92505396/283993447-8dc89bcc-3095-4ee6-b72b-4ed6a2ac7eec.png",
-    tags: ["Docker",
+    tags: [
+      "Docker",
       "AWS",
       "Spring Boot",
       "Hibernate",
@@ -377,7 +375,8 @@ export const projects = [
       "HTML",
       "CSS",
       "Java Script",
-      "Thymeleaf",],
+      "Thymeleaf",
+    ],
     category: "web app",
     github: "",
     webapp: "#",
@@ -430,7 +429,15 @@ export const projects = [
       "The primary objective of the Smart Connect Manager project is to serve as a centralized and efficient platform for managing contact-related information, encompassing mobile numbers and email addresses. Built on the robust foundation of Spring Boot, REST APIs, Thymeleaf, and MySQL, the application offers a seamless and user-friendly interface for users to add, organize, and maintain contact details. The project aims to enhance connectivity and streamline information management by providing a comprehensive solution to store, update, and retrieve contact-related data. With a focus on simplicity, scalability, and performance, the Smart Connect Manager project empowers users to efficiently manage and access their contact information in a secure and organized manner.",
     image:
       "https://user-images.githubusercontent.com/92505396/283993460-5b49b1e4-6742-4f7c-91ef-313a06819310.png",
-    tags: ["Spring Boot", "Thymeleaf", "MySQL", "Hibernate", "HTML", "Css", "JavaScript"],
+    tags: [
+      "Spring Boot",
+      "Thymeleaf",
+      "MySQL",
+      "Hibernate",
+      "HTML",
+      "Css",
+      "JavaScript",
+    ],
     category: "web app",
     github: "https://github.com/devendra1707/Smart-Contact-manager",
     webapp: "#",
@@ -443,7 +450,14 @@ export const projects = [
       "The Live Cricket Score - 2023 project is a dynamic web application developed using a powerful stack that includes Spring Boot, MySQL, Thymeleaf, HTML, CSS, JavaScript, and Hibernate. This comprehensive solution ensures real-time updates of cricket scores for the year 2023. Leveraging Spring Boot for its robust backend framework, the application utilizes Hibernate to interact seamlessly with the MySQL database, ensuring efficient data storage and retrieval. Thymeleaf templates facilitate the server-side rendering of HTML, while CSS and JavaScript enhance the user interface for a visually appealing and interactive experience. The project employs a RESTful architecture for smooth communication between the frontend and backend, allowing users to access live cricket scores in a responsive and dynamic environment. This solution provides an optimal balance of performance, scalability, and user engagement, offering cricket enthusiasts a cutting-edge platform to stay updated on live matches throughout the year 2023.",
     image:
       "https://user-images.githubusercontent.com/92505396/283993455-bb7e958b-56b6-40df-a15e-d2282db50e52.png",
-    tags: ["React Js", "Spring Boot", "Java", "MySQL", "Hibernate", "RestFul Web API"],
+    tags: [
+      "React Js",
+      "Spring Boot",
+      "Java",
+      "MySQL",
+      "Hibernate",
+      "RestFul Web API",
+    ],
     category: "web app",
     github: "https://github.com/devendra1707/LiveCrickScore2023Back",
     webapp: "#",
@@ -471,7 +485,14 @@ export const projects = [
       "The Blogging Application is a modern and feature-rich web platform developed with a sophisticated technology stack, combining Spring Boot, MySQL, React.js, HTML, CSS, and JavaScript. This robust solution caters to bloggers and readers alike, offering seamless content creation, storage, and retrieval. Leveraging the Spring Boot framework for a robust backend, the application uses MySQL for efficient data management and persistence. The frontend is built with React.js, ensuring a dynamic and responsive user interface. HTML and CSS contribute to the platform's structure and styling, while JavaScript enhances interactivity. The application supports user authentication, enabling bloggers to create and manage personalized accounts, and incorporates a rich text editor for composing engaging posts. With a RESTful API architecture, the application ensures smooth communication between the frontend and backend, facilitating real-time updates. This Blogging Application strives to provide an optimal blend of user experience, performance, and scalability, making it an ideal choice for both bloggers and readers seeking an intuitive and visually appealing platform for sharing and consuming content.",
     image:
       "https://user-images.githubusercontent.com/92505396/285389069-603ddc96-ff47-404f-9509-6c0242eefffa.jpg",
-    tags: ["Spring Boot", "MySQL", "Hibernate", "RestFul Web API", "React", "Axois"],
+    tags: [
+      "Spring Boot",
+      "MySQL",
+      "Hibernate",
+      "RestFul Web API",
+      "React",
+      "Axois",
+    ],
     category: "web app",
     github: "https://github.com/devendra1707/Blog-React",
     webapp: "#",
@@ -484,7 +505,15 @@ export const projects = [
       "The Exam Server Management System is a comprehensive web application developed using Angular for the frontend, leveraging JavaScript for dynamic interactivity, and interfacing with a RESTful API powered by a robust Spring Boot backend. Data is efficiently managed and stored in a MySQL database using Hibernate for seamless integration. This system is hosted on the AWS cloud infrastructure, ensuring scalability, reliability, and optimal performance. The Angular frontend provides an intuitive and responsive user interface, allowing administrators, instructors, and students to manage exams, grades, and related information seamlessly. The Spring Boot backend handles the logic for user authentication, data processing, and communication with the database, while AWS services contribute to secure and efficient hosting. With this technological synergy, the Exam Server Management System offers a streamlined and user-friendly solution for managing exams, fostering an organized and efficient environment for academic institutions and students alike.",
     image:
       "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["Angular", "JavaScript", "RestFul API", "Spring Boot", "MySql", "Hibernate", "AWS"],
+    tags: [
+      "Angular",
+      "JavaScript",
+      "RestFul API",
+      "Spring Boot",
+      "MySql",
+      "Hibernate",
+      "AWS",
+    ],
     category: "web app",
     github: "https://github.com/devendra1707/examserver_angular1",
     webapp: "#",
@@ -537,7 +566,15 @@ export const projects = [
       "The Cafe Management System is a comprehensive web application developed with a technology stack comprising Spring Boot, Angular, MySQL, Hibernate, HTML, CSS, and JavaScript. Leveraging Spring Boot for the backend, the system efficiently manages cafe operations, processing business logic and ensuring seamless communication with the MySQL database through Hibernate for data storage and retrieval. The frontend, built with Angular, offers an interactive and user-friendly interface, allowing cafe staff to manage orders, inventory, and customer interactions efficiently. The HTML, CSS, and JavaScript components enhance the user experience with a visually appealing and responsive design. The system supports functionalities such as order processing, menu management, inventory tracking, and customer relationship management. This Cafe Management System, with its robust technology stack, aims to streamline cafe operations, enhance customer service, and provide cafe owners with a comprehensive tool for managing their business effectively.",
     image:
       "https://user-images.githubusercontent.com/92505396/283996486-aaefcafd-63d9-45bc-b940-b5b4481be758.png",
-    tags: ["React Js", "API", "Axios", "Node JS", "Spring Boot", "MySQL", "Hibernate"],
+    tags: [
+      "React Js",
+      "API",
+      "Axios",
+      "Node JS",
+      "Spring Boot",
+      "MySQL",
+      "Hibernate",
+    ],
     category: "web app",
     github: "https://github.com/devendra1707/CafeManagementSystemSpringBoot",
     webapp: "#",
@@ -576,9 +613,18 @@ export const projects = [
       "The Student Management System is a robust web application developed with a technology stack that includes Spring Boot, Thymeleaf, MySQL, and Hibernate. Utilizing Spring Boot for the backend, the system efficiently manages student-related data, handles business logic, and interacts seamlessly with a MySQL database using Hibernate for secure and organized data storage. The frontend, powered by Thymeleaf, provides a dynamic and user-friendly interface for administrators, educators, and students to manage academic information, course enrollments, and grades. The system supports functionalities such as student registration, course management, and grade tracking. With its modern and responsive design, the Student Management System aims to simplify administrative tasks, enhance communication between educators and students, and provide a centralized platform for efficient management of academic records.",
     image:
       "https://user-images.githubusercontent.com/92505396/283997884-698e4c14-b7a7-4af5-bc05-0a73337855f1.png",
-    tags: ["Spring Boot", "MySQL", "Thymeleaf", "Hibernate", "HTML", "Css", "JavaScript"],
+    tags: [
+      "Spring Boot",
+      "MySQL",
+      "Thymeleaf",
+      "Hibernate",
+      "HTML",
+      "Css",
+      "JavaScript",
+    ],
     category: "web app",
-    github: "https://github.com/devendra1707/Student-Management-Project/tree/main/Student-Management-System",
+    github:
+      "https://github.com/devendra1707/Student-Management-Project/tree/main/Student-Management-System",
     webapp: "#",
   },
   {
