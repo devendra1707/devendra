@@ -384,7 +384,7 @@ export const projects = [
   {
     id: 15,
     title: "We Connect",
-    date: "Oct 2022 - Present",
+    // date: "Oct 2022 - Present",
     description:
       'Designed and developed the " We Connect " Project,The Employee Management System is a multifaceted Java-based application designed to serve as a comprehensive tool for efficient workforce management. This integrated platform seamlessly connects and streamlines various critical aspects of employee engagement, including the meticulous tracking of attendance records, facilitation of task assignments, maintenance of a detailed holiday list, and effective management of medical leave requests. Furthermore, the system provides centralized oversight for timesheet tracking, expense reporting, and leave applications, contributing to a more organized and transparent employee management process. By integrating these functionalities, the application not only enhances operational efficiency but also fosters a culture of accountability and adherence to company policies, ensuring a holistic and structured approach to workforce administration.',
     image:
