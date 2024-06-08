@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/devendra1707",
   resume:
-    "https://drive.google.com/file/d/1A0Mc8wg0-RyyKyyhh7loOGc9CkNP76L9/view?usp=sharing",
+    "https://drive.google.com/file/d/1A9oobkWe_nM_XRsAjUzEIHlxChNboITR/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/devendra1707/",
   twitter: "https://twitter.com/devendra1707",
   insta: "https://instagram.com/devendra17071?igshid=OGU0MmVlOWVjOQ==",
