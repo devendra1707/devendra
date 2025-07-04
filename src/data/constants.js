@@ -1,11 +1,11 @@
 export const Bio = {
   name: "Devendra Patel",
-  roles: ["Full Stack Developer", "Java Developer", "Programmer"],
+  roles: ["Full Stack Developer", "Java Developer", "Programmer","Problem Solver"],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a Java Developer with over 3 years of experience in building and maintaining web applications using technologies like Java, Spring Boot, and REST APIs. I enjoy solving problems, learning new skills, and working in collaborative environments. With a strong focus on writing clean, efficient code and delivering high-quality results, I am always ready to take on new challenges and contribute to the success of any team or project.",
   github: "https://github.com/devendra1707",
   resume:
-    "https://drive.google.com/file/d/1A9oobkWe_nM_XRsAjUzEIHlxChNboITR/view?usp=sharing",
+    "https://drive.google.com/file/d/1bIceR6MCZGgxoqtYTLUe20m3EY1f45Pc/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/devendra1707/",
   twitter: "https://twitter.com/devendra1707",
   insta: "https://instagram.com/devendra17071?igshid=OGU0MmVlOWVjOQ==",
